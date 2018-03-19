@@ -1,0 +1,37 @@
+{
+  "name": "omnidoc",
+  "version": "0.1.0",
+  "description": "One-way flat-file database.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angel333/omnidoc.git"
+  },
+  "keywords": [
+    "database",
+    "flat-file"
+  ],
+  "author": "Ondrej Simek <me@ondrejsimek.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/angel333/omnidoc/issues"
+  },
+  "homepage": "https://github.com/angel333/omnidoc#readme",
+  "dependencies": {
+    "fast-glob": "^2.2.0",
+    "gray-matter": "^3.1.1",
+    "marked": "^0.3.17",
+    "mz": "^2.7.0",
+    "ramda": "^0.25.0",
+    "toml": "^2.3.3"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.9.0",
+    "jest": "^22.4.2"
+  }
+}
