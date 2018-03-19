@@ -4,6 +4,8 @@ Flat-file one-way "database".
 
 ---
 
+[![Build Status](https://travis-ci.org/angel333/omnidoc.svg?branch=master)](https://travis-ci.org/angel333/omnidoc)
+
 Omnidoc is a parser for a flat-file structure.
 
 ## Features
