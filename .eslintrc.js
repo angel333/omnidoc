@@ -3,6 +3,10 @@ module.exports = {
     'env': {
         'jest': true,
     },
+    'parserOptions': {
+        'ecmaVersion': 6,
+        'sourceType': 'script',
+    },
     'rules': {
         'indent': ['error', 2],
         'yoda': ['off'],
